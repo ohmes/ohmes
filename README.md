@@ -3,26 +3,15 @@
 I am an ambitious software engineer who loves cars, games and dinosuars. 🦖
 
 ## A bit more about me:
-- I do UI/UX
-- I've done Game Dev
-- now I'm doing Mobile Dev (or trying to)
+- can do UI/UX 🖌️
+- Formerly a Game Dev 🎮
+- Currently diving into Mobile Dev (or at least trying to) 📱
 
+### Things i usually use:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,next,vue,tailwind,mysql,mongodb,postman,figma,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-<!--
-**ohmes/ohmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Only for leetcode... but I'm working on that
+[![Python for Leetcode](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ohmes/ohmes/blob/manual-run-output/docker/github-contribution-grid-snake.svg" />
