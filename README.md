@@ -7,6 +7,8 @@ I am an ambitious software engineer who loves cars, games and dinosuars. 🦖
 - I've done Game Dev
 - now I'm doing Mobile Dev (or trying to)
 
+
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 <!--
 **ohmes/ohmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
