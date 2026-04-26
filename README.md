@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am an ambitious software engineer who loves cars, games and dinosuars. 🦖
+
+## A bit more about me:
+- I do UI/UX
+- I've done Game Dev
+- now I'm doing Mobile Dev (or trying to)
+
 <!--
 **ohmes/ohmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
